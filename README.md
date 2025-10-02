@@ -37,7 +37,7 @@ Built an OOP-based airline management system in Java to handle flight and passen
 
 
 🔹 GitHub Stats
-Rishabh's GitHub stats
+Rishabh's GitHub stats: https://github-readme-stats.vercel.app/api?username=Sparklybadge024&show_icons=true&theme=tokyonight
 
 🔹 Connect with Me
 • 	💼 LinkedIn: http://www.linkedin.com/in/rishabh-sundli-2b6172211
