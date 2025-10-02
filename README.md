@@ -1,10 +1,15 @@
 Absolutely, Rishabh—this README is already strong, but with a few strategic tweaks, we can make it recruiter-attractive, community-friendly, and technically crisp. Here's a polished version that balances personality, clarity, and impact:
 
 👋 Hi, I'm Rishabh Sundli
+
 Full-Stack Developer  Java  JavaScript  C++  MERN Stack
+
 🚀 Passionate about building scalable web applications and solving algorithmic challenges
+
 🎯 7+ full-stack projects deployed | 100+ coding challenges solved
+
 💡 Skilled in Java, C++, JavaScript, and the MERN stack (React, Node, Express, MongoDB)
+
 
 🔹 Featured Projects
 
