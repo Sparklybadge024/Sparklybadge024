@@ -14,10 +14,15 @@ Full-Stack Developer  Java  JavaScript  C++  MERN Stack
 🔹 Featured Projects
 
 • 	🚗 Autonomous Delivery Robot Simulation
+
 Optimized graph-based pathfinding logic to reduce runtime by 35% across 500+ nodes, improving simulation responsiveness.
+
 • 	⚡ Async Programming Scenarios
+
 Showcased real-world concurrency patterns using Promises, async/await, and error handling in a full-stack setup.
+
 • 	✈️ Airline Reservation IMS
+
 Built an OOP-based airline management system in Java to handle flight and passenger data with structured logic.
 
 🔹 Tech Stack
