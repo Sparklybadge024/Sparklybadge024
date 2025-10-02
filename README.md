@@ -24,9 +24,10 @@ Built an OOP-based airline management system in Java to handle flight and passen
 Rishabh's GitHub stats
 
 🔹 Connect with Me
-• 	💼 LinkedIn
+• 	💼 LinkedIn: http://www.linkedin.com/in/rishabh-sundli-2b6172211
 • 	🌐 Portfolio Website: Coming Soon
 • 	📫 Email: sundlirishabh55@gmail.com
+•      Leetcode: https://leetcode.com/u/sparklybadge024/
 
 🔹 Currently Exploring
 • 	🔭 Building new MERN stack apps with advanced authentication and testing
