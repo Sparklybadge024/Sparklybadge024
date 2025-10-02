@@ -16,20 +16,30 @@ Built an OOP-based airline management system in Java to handle flight and passen
 
 🔹 Tech Stack
 • 	Languages: JavaScript (ES6+), Java, C++
+
 • 	Frameworks & Libraries: React.js, Node.js, Express.js, Bootstrap
+
 • 	Databases: MongoDB, MySQL
+
 • 	Tools & Platforms: Git, GitHub, Postman, Netlify, Heroku
+
 
 🔹 GitHub Stats
 Rishabh's GitHub stats
 
 🔹 Connect with Me
 • 	💼 LinkedIn: http://www.linkedin.com/in/rishabh-sundli-2b6172211
+
 • 	🌐 Portfolio Website: Coming Soon
+
 • 	📫 Email: sundlirishabh55@gmail.com
+
 •      Leetcode: https://leetcode.com/u/sparklybadge024/
+
 
 🔹 Currently Exploring
 • 	🔭 Building new MERN stack apps with advanced authentication and testing
+
 • 	🌱 Deepening DSA skills in Java and C++
+
 • 	🤝 Open to collaboration on open-source and startup projects
